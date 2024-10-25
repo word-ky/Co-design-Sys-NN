@@ -1,14 +1,14 @@
 **Official Code for "Task-Oriented Real-time Visual Inference for IoVT Systems: A Co-design Framework of Neural Networks and Edge Deployment"**
 
-**Problem Statement**: As video data grows, IoVT systems face latency and bandwidth issues, and edge computing struggles with balancing high model performance and low resource usage.
+(1) **Problem Statement**: As video data grows, IoVT systems face latency and bandwidth issues, and edge computing struggles with balancing high model performance and low resource usage.
 
-**Proposed Solution**: A co-design framework that optimizes neural network architecture and deployment strategies, enhancing computational efficiency on edge devices.
+(2) **Proposed Solution**: A co-design framework that optimizes neural network architecture and deployment strategies, enhancing computational efficiency on edge devices.
 
-**Key Features**: Dynamic model structure, Roofline-based model partitioning, and multi-objective co-optimization to balance throughput and accuracy.
+(3) **Key Features**: Dynamic model structure, Roofline-based model partitioning, and multi-objective co-optimization to balance throughput and accuracy.
 
-**Results**: The method significantly boosts throughput and accuracy compared to baselines, with stable performance across devices of varying capacities.
+(4) **Results**: The method significantly boosts throughput and accuracy compared to baselines, with stable performance across devices of varying capacities.
 
-**Validation**: Simulated experiments show high-accuracy, real-time detection, especially for small objects, validating the method's effectiveness in IoVT systems.
+(5) **Validation**: Simulated experiments show high-accuracy, real-time detection, especially for small objects, validating the method's effectiveness in IoVT systems.
 
 1. **Dependency Installation**: First, install the required dependencies listed in `requirements.txt` to set up the correct environment.
 
